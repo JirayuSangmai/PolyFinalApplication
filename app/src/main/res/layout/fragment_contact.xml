@@ -21,6 +21,30 @@
                 android:layout_width="match_parent"
                 android:layout_height="300dp"
                 tools:context="th.ac.lannapoly.testmap.MapsActivity" />
+
+            <Button
+                android:id="@+id/button50"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="กดฉันสิ!!" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="กดฉันสิ!!" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="กดฉันสิ!!" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="กดฉันสิ!!" />
         </LinearLayout>
 
     </ScrollView>
